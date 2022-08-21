@@ -37,7 +37,7 @@ const Home: NextPage = () => {
             <div className="text-blue-700 flex justify-center items-center space-x-3">
               <RefreshIcon className="w-6 h-6" />
               <PrinterIcon className="w-6 h-6" />
-              <a href="#">Create New Task</a>
+              <a href="#">Buat Project</a>
             </div>
           </div>
           {/* MAIN */}

@@ -54,7 +54,7 @@ const Home: NextPage = () => {
             <div className="flex items-center justify-between px-4 py-2 lg:col-span-2 h-32  bg-blue-700 text-white shadow-md rounded-xl ">
               <div>
                 <p className="text-blue-200">To Do</p>
-                <h4 className="text-7xl">23</h4>
+                <h4 className="text-7xl">20</h4>
               </div>
               <ClipboardListIcon className="text-yellow-400 h-20 w-20" />
             </div>
@@ -62,7 +62,7 @@ const Home: NextPage = () => {
             <div className="flex items-center justify-between px-4 py-2 lg:col-span-2 h-32  bg-blue-700 text-white shadow-md rounded-xl ">
               <div>
                 <p className="text-blue-200">Work</p>
-                <h4 className="text-7xl">23</h4>
+                <h4 className="text-7xl">20</h4>
               </div>
               <PresentationChartLineIcon className="text-green-400 h-20 w-20" />
             </div>

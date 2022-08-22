@@ -32,7 +32,7 @@ const Home: NextPage = () => {
           <div className="px-4 py-4 flex justify-between bg-white shadow-md">
             <ViewGridIcon className="w-6 h-6" />
             <div className="">
-              <h4 className="font-bold">Sunday, 22 Aug 2022</h4>
+              <h4 className="font-bold">Didi Kurniadi</h4>
             </div>
             <div className="text-blue-700 flex justify-center items-center space-x-3">
               <RefreshIcon className="w-6 h-6" />
